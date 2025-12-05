@@ -236,7 +236,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 Have questions or suggestions? Feel free to reach out!
 
 - **GitHub:** [@snowjug](https://github.com/snowjug)
-- **LinkedIn:** [Atharv Patil](https://linkedin.com/in/atharv2405)
+- **LinkedIn:** [Atharv Shukla](https://linkedin.com/in/atharv2405)
 
 ---
 
