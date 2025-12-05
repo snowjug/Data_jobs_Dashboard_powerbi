@@ -15,6 +15,12 @@
 
 ---
 
+![Data Jobs Dashboard Overview](dashboard.png)
+
+*Interactive Power BI Dashboard showcasing global data job market insights*
+
+---
+
 </div>
 
 ## 🌟 Project Overview
@@ -170,18 +176,6 @@ The dashboard leverages a comprehensive dataset containing:
 
 ---
 
-## 📊 Dashboard Preview
-
-<div align="center">
-
-![Data Jobs Dashboard Overview](dashboard.png)
-
-*Interactive Power BI Dashboard showcasing global data job market insights*
-
-</div>
-
----
-
 ## 🔍 Key Insights Derived
 
 Based on the analysis, you can discover:
@@ -242,7 +236,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 Have questions or suggestions? Feel free to reach out!
 
 - **GitHub:** [@snowjug](https://github.com/snowjug)
-- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
+- **LinkedIn:** [Atharv Patil](https://linkedin.com/in/atharv2405)
 
 ---
 
